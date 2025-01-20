@@ -96,6 +96,7 @@ Usa el token recibido en la cabecera Authorization:
 
 ## Desarrollado por Ian Rodriguez
 
+
 <div style="display: flex; justify-content: flex-start;">
 <a href="https://www.linkedin.com/in/ian-rodriguez-8351a1221" target="_blank">
 <img src="./img/linkedIn_icon.png" alt=linkedin style="margin-bottom: 5px;width:45px;" />
@@ -104,4 +105,3 @@ Usa el token recibido en la cabecera Authorization:
 <img src="./img/github.svg" alt=github style="margin-bottom: 5px;width:46px;" />
 </a>
 </div>
-
