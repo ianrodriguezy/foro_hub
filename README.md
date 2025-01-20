@@ -94,5 +94,14 @@ Usa el token recibido en la cabecera Authorization:
 
     Authorization: Bearer <token>
 
+## Desarrollado por Ian Rodriguez
 
+<div style="display: flex; justify-content: flex-start;">
+<a href="https://www.linkedin.com/in/ian-rodriguez-8351a1221" target="_blank">
+<img src="./img/linkedIn_icon.png" alt=linkedin style="margin-bottom: 5px;width:45px;" />
+</a>
+<a href="https://github.com/ianrodriguezy" target="_blank">
+<img src="./img/github.svg" alt=github style="margin-bottom: 5px;width:46px;" />
+</a>
+</div>
 
